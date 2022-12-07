@@ -11,4 +11,5 @@
 - No se incorporó boton salir del juego ya que no fue solicitado.
 - Decidí que al ver el patron se cargara una escena nueva con el juego ya que ocurrián ciertas inconsistencias jugando sobre el patron (Ej. La jugabilidad era horrible ya que habia que sostener de manera muy rigida el celular para que el laberinto y el player no se movieran tanto).
 - Juego probado en Smartphone Xiaomi Poco X3 (1080px x 2400px)
+- Se eliminó el archivo "com.ptc.vuforia.engine-10.11.3.tgz" de la carpeta /Packages
   
